@@ -1,0 +1,1 @@
+# Django with Heroku and Github Action [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fpjpmarikit%2Ftest-django-deploy%2Fbadge&style=flat)](https://actions-badge.atrox.dev/pjpmarikit/test-django-deploy/goto)
